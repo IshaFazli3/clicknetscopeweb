@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  background-image: url("pexels-caner-demiroğlu-15559037.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  padding: 10px auto;
+  margin: 200px auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+  width: 500px;
+  height: 75px;
+  
+}
